@@ -1,0 +1,7 @@
+C:\AnkitWork\EdiFile\EdiFile\bin\Debug\EdiFile.exe.config
+C:\AnkitWork\EdiFile\EdiFile\bin\Debug\EdiFile.exe
+C:\AnkitWork\EdiFile\EdiFile\bin\Debug\EdiFile.pdb
+C:\AnkitWork\EdiFile\EdiFile\obj\Debug\EdiFile.csproj.AssemblyReference.cache
+C:\AnkitWork\EdiFile\EdiFile\obj\Debug\EdiFile.csproj.CoreCompileInputs.cache
+C:\AnkitWork\EdiFile\EdiFile\obj\Debug\EdiFile.exe
+C:\AnkitWork\EdiFile\EdiFile\obj\Debug\EdiFile.pdb
